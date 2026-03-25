@@ -70,7 +70,7 @@
         <img src="https://img.shields.io/badge/En%20desarrollo-orange?style=flat-square"/>
       </p>
       <p align="center">
-        <a href="https://github.com/cris1619">Ver repositorio →</a>
+        <a href="https://github.com/cris1619/MGR_PLAY.git">Ver repositorio →</a>
       </p>
     </td>
   </tr>
@@ -102,5 +102,5 @@
 ---
 
 <div align="center">
-  <i>✨ "El mejor momento para empezar fue ayer. El segundo mejor momento es hoy." ✨</i>
+  <i>✨ "Dios proveerá..." ✨</i>
 </div>
